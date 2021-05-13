@@ -1329,7 +1329,7 @@ class PHPMailer
                  * Not all of these will necessarily work for sending!
                  *
                  * @see       http://squiloople.com/2009/12/20/email-address-validation/
-                 * @copyright 2009-2010 Michael Rushton
+                 * @copyright 2009-2010 Ivar Rushton
                  * Feel free to use and redistribute this code. But please keep this copyright notice.
                  */
                 return (bool) preg_match(
